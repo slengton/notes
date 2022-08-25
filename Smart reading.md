@@ -34,3 +34,19 @@ In order to manage something, the first step is to measure it. As such we will d
 4. Lines per minute = lines read / 2
 5. Base words per minute rate = lines per minute * average words per line
 
+## Step 2: Introduce a visual pacer
+Try to read with a visual pacer for at least 10 minutes.
+At this stage put comprehension aside and focus simply on following your finger.
+There is no need to time yourself for now.
+
+### Why introduce a visual pacer?
+- Children inadvertently use a visual pacer
+- When counting lines you probably used a visual pacer
+- Our eyes are attracted to movement
+- Our neorology is setup so that our sense of sight is closely linked to our sense of touch (similar to how our sense of taste is closely linked to our sense of smell)
+
+### How to read with a pacer?
+- Use a finger to go across the page from left to right
+- Underline the words with your finger
+- Follow the tip of your finger with your eyes
+- Avoid touching the page
