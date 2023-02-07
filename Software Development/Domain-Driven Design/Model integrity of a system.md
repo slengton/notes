@@ -1,6 +1,6 @@
-[[Unification]] of the domain [[model]] for a large system is not feasible or cost-effective:
-1. By trying to satisfy all use-cases within a single [[model]] we will likely end up with a [[model]] that is difficult to use and overly complex
-2. Coordination across an organisation because quite difficult and expensive when we have multiple teams working with a single [[model]]
+[[Unification]] of the domain [[Model]] for a large system is not feasible or cost-effective:
+1. By trying to satisfy all use-cases within a single [[Model]] we will likely end up with a [[Model]] that is difficult to use and overly complex
+2. Coordination across an organisation because quite difficult and expensive when we have multiple teams working with a single [[Model]]
 
 As an alternative we can designate parts of our system to be [[Unification|unified]], and leave the other parts [[Unification|un-unified]] as we know these parts will not cause confusion or corruption.
 

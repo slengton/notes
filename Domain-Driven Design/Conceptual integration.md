@@ -1,1 +1,0 @@
-Conceptual integration is an effective process where a team constantly exercises the ubiqutious language of a [[Bounded Context]] through discussions of the model and application. This ensures that the team cultivates a shared understanding of the ever-changing [[Model|model]].
